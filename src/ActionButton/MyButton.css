@@ -34,7 +34,7 @@ button {
     color: #41a641;
 }
 
-.DefaultType.Hover{
+.DefaultType.Hover:hover{
     color: #41a641;
     background-color: #b9edb9;
 }
@@ -55,20 +55,20 @@ button {
 .Reverse.DefaultStatus{
     color: white;
 }
-.Reverse.Hover{
+.Reverse.Hover:hover{
     color: white;
     background-color: #282829;
 }
 .Reverse.Disabled{
     color: #6b6b6b;
 }
-.Neutral.Hover{
+.Neutral.Hover:hover{
     background-color:#f2f3f5;
 }
 .Neutral.Hover svg{
     color: #5b5b5c;
 }
-.Hover{
+.Hover:hover{
     background-color: #edfaed;
 }
 .Disabled{
